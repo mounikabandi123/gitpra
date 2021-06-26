@@ -1,3 +1,8 @@
-1st code
-2nd code
-main code
+void main( )
+{
+ printf("sample code")
+ printf("sample code")	
+ printf("sample code") 
+ printf("sample code")
+}
+
